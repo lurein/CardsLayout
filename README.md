@@ -1,5 +1,6 @@
 # CardsLayout
 
+Note: CardsLayout is a layout originally created by filletofish. I have just made small modifications in my own library to allow this layout to work in more advanced applications with segueing.
 CardsLayout is a lightweight Collection Layout.
 
 ![CocoaPods](https://img.shields.io/badge/pod-v0.0.1-blue.svg)
